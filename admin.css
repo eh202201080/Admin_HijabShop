@@ -295,7 +295,7 @@ gap: 30px;
 
 .nav-option.option1 {
     /* Remove the gray background color */
-    background-color: transparent;
+    background-color: #fedcdc; 
     /* Adjust border color if needed */
     border-left: none;
 }

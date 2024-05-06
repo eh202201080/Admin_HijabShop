@@ -305,17 +305,12 @@ gap: 30px;
     border-left: 5px solid #f4b6b6; 
 }
 
-.nav-option.option1 { 
-background-color: #ffffff; 
-} 
-
 .option1:hover { 
 border-left: 5px solid #0e0affaf; 
 background-color: var(--Border-color); 
 } 
 
 .nav-option.option2 {
-  background-color: #fedcdc; 
   font-size: medium;
 }
 
